@@ -8,7 +8,9 @@ To recommend movies similar to a selected movie for a specific user, ensuring th
 
 Source: MovieLens 100K dataset
 https://grouplens.org/datasets/movielens/
+
 Size: 100,000 ratings by 943 users on 1,682 movies
+
 Includes: Ratings (1–5), movie metadata, and user demographics
 
 ##Approach
