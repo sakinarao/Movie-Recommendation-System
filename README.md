@@ -25,4 +25,4 @@ Includes: Ratings (1–5), movie metadata, and user demographics
 - For a given movie and user, Retrieved top-N similar movies, Filtered out movies already rated by the user.
 - Returned the top recommended titles.
 5. Personalization
--Ensured that recommendations are specific to each user by excluding their watched/rated movies.
+- Ensured that recommendations are specific to each user by excluding their watched/rated movies.
